@@ -1,1 +1,2 @@
 Simple programm to catch files before they were chmod'ed via inotify(7)
+Quick and dirty (i mean really dirty). It doesn't perform queue of event.
